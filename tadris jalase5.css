@@ -1,0 +1,7 @@
+*{
+    background-color: plum;
+}
+input[type=text],[type=email]{
+    border: yellow 1px solid;
+    background-color: darkgrey;
+}
